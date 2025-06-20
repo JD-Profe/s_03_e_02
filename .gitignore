@@ -1,0 +1,43 @@
+# Bytecode de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entorno virtual
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*.swp
+
+# Archivos de pytest
+.cache/
+.pytest_cache/
+
+# Archivos de dependencias de pip
+pip-log.txt
+
+# Archivos de pruebas de cobertura
+htmlcov/
+coverage.xml
+.tox/
+
+# Archivos de GitHub Codespaces o Dev Containers
+.devcontainer/
+*.code-workspace
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de distribución (por si alguna vez empaquetas)
+dist/
+build/
+*.egg-info/
