@@ -1,6 +1,5 @@
 name: Python CI
 
-# Este workflow se ejecuta automáticamente en cada push o pull request a la rama 'main'
 on:
   push:
     branches: [ main ]
