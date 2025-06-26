@@ -1,6 +1,6 @@
 # Pruebas automatizadas con FastAPI, pytest y GitHub Actions
 
-Este proyecto es un **ejemplo** que simula cómo un equipo de desarrollo puede usar integración continua (CI) para asegurarse de que una aplicación web **no se rompe al hacer cambios**.
+Este proyecto es un **ejemplo** que simula cómo un equipo de desarrollo puede usar integración continua (CI) para asegurarse de que una aplicación web **no se rompe al hacer cambios**. Es un ejemplo muy sencillo.
 
 Usaremos:
 
