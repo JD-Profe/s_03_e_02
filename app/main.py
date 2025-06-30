@@ -23,7 +23,7 @@ def precio_final(precio: float = Query(...)):
     """
 
     # Aplicamos el descuento del 10% y redondeamos el resultado a 2 decimales.
-    precio_descuento = round(precio * 0.90, 2)
+    precio_descuento = round(precio * 1.10, 2)
 
     # Devolvemos el resultado en formato JSON.
     return {"precio_final": precio_descuento}
